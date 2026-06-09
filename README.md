@@ -7,7 +7,7 @@ I primarily work with React, JavaScript, Tailwind CSS, and Supabase, building ev
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
